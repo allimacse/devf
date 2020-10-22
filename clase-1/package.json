@@ -1,0 +1,27 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "description": "Esta es la clase 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allimacse/devf.git"
+  },
+  "keywords": [
+    "axios",
+    "api",
+    "requests"
+  ],
+  "author": "Alan Escamilla Mondragon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allimacse/devf/issues"
+  },
+  "homepage": "https://github.com/allimacse/devf#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
